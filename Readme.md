@@ -1,4 +1,9 @@
 ## Aresa Store
+
+Nama : Aresa Aulina Melinda
+Nim : 19.11.2808
+
+### KETERANGAN
 penerapan MVC untuk memudahkan user dalam pemesanan item.
 
 ### SCOPE & FUNCTIONALITIES
