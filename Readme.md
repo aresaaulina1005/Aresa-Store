@@ -1,4 +1,4 @@
-﻿﻿## Grab Eat
+## Aresa Store
 penerapan MVC untuk memudahkan user dalam pemesanan item.
 
 ### SCOPE & FUNCTIONALITIES
